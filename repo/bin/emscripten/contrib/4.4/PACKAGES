@@ -1,3 +1,11 @@
+Package: lavaan
+Version: 0.6-17
+Depends: R(>= 3.4)
+Imports: methods, stats4, stats, utils, graphics, MASS, mnormt,
+        pbivnorm, numDeriv, quadprog
+License: GPL (>= 2)
+MD5sum: 048ffc006187f7533c8ab596704ffa27
+
 Package: mnormt
 Version: 2.1.1
 Depends: R (>= 2.2.0)
