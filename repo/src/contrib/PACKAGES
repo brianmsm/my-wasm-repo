@@ -1,3 +1,13 @@
+Package: MASS
+Version: 7.3-60.2
+Priority: recommended
+Depends: R (>= 4.4.0), grDevices, graphics, stats, utils
+Imports: methods
+Suggests: lattice, nlme, nnet, survival
+License: GPL-2 | GPL-3
+MD5sum: a1838063f99b230bdcdeaea5f0cf72a2
+NeedsCompilation: yes
+
 Package: lavaan
 Version: 0.6-17
 Depends: R(>= 3.4)
@@ -12,4 +22,17 @@ Version: 2.1.1
 Depends: R (>= 2.2.0)
 License: GPL-2 | GPL-3
 MD5sum: 9fe058de04cb12639f36290af0194ac1
+NeedsCompilation: yes
+
+Package: numDeriv
+Version: 2016.8-1.1
+Depends: R (>= 2.11.1)
+License: GPL-2
+MD5sum: 54d705bec6fdeea129d96639e65b181f
+NeedsCompilation: no
+
+Package: pbivnorm
+Version: 0.6.0
+License: GPL (>= 2)
+MD5sum: 8d2761b8019659639fd1b206fc9cb7fb
 NeedsCompilation: yes
