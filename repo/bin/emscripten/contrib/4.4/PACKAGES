@@ -1,0 +1,5 @@
+Package: mnormt
+Version: 2.1.1
+Depends: R (>= 2.2.0)
+License: GPL-2 | GPL-3
+MD5sum: a3e2db6efcbe55e6c1c6dcd22f4c0be3
